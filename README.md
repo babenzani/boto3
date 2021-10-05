@@ -1,4 +1,4 @@
-# boto3
+# Get Resources
 how to run this code
 
 python get_resource.py (profile aws credential) (Region)
